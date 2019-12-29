@@ -90,6 +90,76 @@ body{
 
 
 /* main */
+.main{
+  background-color: #ffffffe6;
+  margin: 7vw 10vw;
+  padding: 3vw 8vw;
+  border: 2px solid aqua;
+  box-shadow: 0 0 10px rgba(0,0,0,1);
+}
+
+.mt{
+  font-size: 3vw;
+  font-family: "Lucida Grande";
+  padding-top: 2vw;
+  padding-left: 1vw;
+  border-bottom:medium solid black;
+  margin-bottom: 1vw;
+}
+
+.md{
+  font-family: YuMincho;
+  border-left: thin solid #737373;
+  border-right: thin solid #737373;
+  padding: 1vw 5vw;
+}
+
+.dc{
+  color: aqua;
+}
+
+.en{
+  border: thin solid #e6e6e6;
+  padding: 0.5vw 1vw;
+  margin-bottom: 1.5vw;
+}
+.ent{
+  font-size: 1.8vw;
+  padding-bottom: 0.3vw;
+}
+.end{
+  font-size: 1.3vw;
+  padding-left: 1vw;
+}
+
+.jp{
+  border: thin solid #e6e6e6;
+  padding: 0.5vw 1vw;
+  margin-bottom: 1.5vw;
+}
+.jpt{
+  font-size: 1.8vw;
+  padding-bottom: 0.3vw;
+}
+.jpd{
+  font-size: 1.3vw;
+  padding-left: 1vw;
+}
+
+.dl{
+  border: thin solid #e6e6e6;
+  padding: 0.5vw 1vw;
+  margin-top: 4.5vw;
+  margin-bottom: 1.5vw;
+}
+.dlt{
+  font-size: 1.8vw;
+  padding-bottom: 0.3vw;
+}
+.dll{
+  font-size: 1.3vw;
+  padding-left: 5vw;
+}
 
 
 

@@ -94,7 +94,7 @@ body{
   background-color: #ffffffe6;
   margin: 7vw 10vw;
   padding: 3vw 8vw;
-  border: 2px solid aqua;
+  border: 2px solid #ff00e5;
   box-shadow: 0 0 10px rgba(0,0,0,1);
 }
 
@@ -119,7 +119,7 @@ body{
 }
 
 .en{
-  border: thin solid #e6e6e6;
+  border: thin solid #b5b5b5;
   padding: 0.5vw 1vw;
   margin-bottom: 1.5vw;
 }
@@ -133,7 +133,7 @@ body{
 }
 
 .jp{
-  border: thin solid #e6e6e6;
+  border: thin solid #b5b5b5;
   padding: 0.5vw 1vw;
   margin-bottom: 1.5vw;
 }
@@ -147,7 +147,7 @@ body{
 }
 
 .dl{
-  border: thin solid #e6e6e6;
+  border: thin solid #b5b5b5;
   padding: 0.5vw 1vw;
   margin-top: 4.5vw;
   margin-bottom: 1.5vw;
